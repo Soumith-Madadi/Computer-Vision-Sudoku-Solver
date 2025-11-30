@@ -31,6 +31,8 @@ ENV/
 env.bak/
 venv.bak/
 .venv
+**/venv*/Scripts/
+**/venv*/pyvenv.cfg
 
 # IDE
 .vscode/
